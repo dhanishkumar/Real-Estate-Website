@@ -12,14 +12,6 @@
 </p>
 
 ---
-
-## 🔍 Live Demo
-
-[🚀 View Live Site](https://your-live-site-link.com)  
-*Replace with your deployed link (e.g., Netlify, GitHub Pages, Vercel)*
-
----
-
 ## 🖥️ Tech Stack
 
 - ✅ **HTML5** – Semantic structure
